@@ -1,2 +1,2 @@
 # Radpide-travels
-Travels and bookings system
+Location based travels and bookings
